@@ -12250,7 +12250,6 @@ react-final-form@^6.3.0:
   integrity sha512-o7tvJXB+McGiXOILqIC8lnOcX4aLhIBiF/Xi9Qet35b7XOS8R7KL8HLRKTfnZWQJm6MCE15v1U0SFive0NcxyA==
   dependencies:
     "@babel/runtime" "^7.15.4"
-
 react-focus-lock@^2.5.2:
   version "2.9.4"
   resolved "https://registry.yarnpkg.com/react-focus-lock/-/react-focus-lock-2.9.4.tgz#4753f6dcd167c39050c9d84f9c63c71b3ff8462e"
